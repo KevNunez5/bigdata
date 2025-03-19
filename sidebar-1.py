@@ -6,9 +6,9 @@ import pandas as pd
 st.title("Streamlit con Sidebar")
 
 sidebar = st.sidebar
-sidebar.title("Titulo de barra lateral")
+sidebar.title("Titulo de KEVIN")
 
-sidebar.write("Informacion de mi sidebar")
+sidebar.write("Informacion de mi sidebar KEVIN")
 
 st.header("Header de mi app")
 st.write("Informacion de mi app")
